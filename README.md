@@ -27,4 +27,4 @@ If both are true, it sends you an **email alert** that says:
 
 ---
 
-> Built as part of my **Advanced Programming** course (BSCS1002) at University of Helsinki to reinforce real-world Python skills like working with APIs, automation, and simple logic.
+> Built as part of  **Advanced Programming** course (BSCS1002) at University of Helsinki to reinforce real-world Python skills like working with APIs, automation, and simple logic.
