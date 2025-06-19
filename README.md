@@ -11,7 +11,7 @@ If both are true, it sends you an **email alert** that says:
 
 ---
 
-## 🔧 How It Works
+## How It Works
 
 - Uses real-time data from [ISS Location API](http://api.open-notify.org/iss-now.json) and [Sunrise-Sunset API](https://sunrise-sunset.org/api)
 - Runs on a loop, checking every 60 seconds
@@ -19,7 +19,7 @@ If both are true, it sends you an **email alert** that says:
 
 ---
 
-## 📌 Setup
+## Setup
 
 1. Add your coordinates to `MY_LAT` and `MY_LONG`
 2. Replace email fields with your Gmail and App Password
