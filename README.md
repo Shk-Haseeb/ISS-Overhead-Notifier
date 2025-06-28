@@ -1,4 +1,4 @@
-# 🛰 ISS Overhead Notifier
+## 🛰 ISS Overhead Notifier
 
 This little Python script lets you know when the **International Space Station** is flying above you **at night**
 
@@ -7,11 +7,11 @@ It checks two things:
 - Is it **currently dark** where you are?
 
 If both are true, it sends you an **email alert** that says:  
-**"LOOK UP!"** 👀✨
+**"LOOK UP!"**
 
 ---
 
-## How It Works
+### How It Works
 
 - Uses real-time data from [ISS Location API](http://api.open-notify.org/iss-now.json) and [Sunrise-Sunset API](https://sunrise-sunset.org/api)
 - Runs on a loop, checking every 60 seconds
@@ -19,11 +19,11 @@ If both are true, it sends you an **email alert** that says:
 
 ---
 
-## Setup
+### Setup
 
 1. Add your coordinates to `MY_LAT` and `MY_LONG`
 2. Replace email fields with your Gmail and App Password
-3. Run the script — and you're good to go!
+3. Run the script!
 
 ---
 
